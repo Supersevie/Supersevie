@@ -1,5 +1,9 @@
 HI this is Luca, and this is a place where we can share and archive all of our Main Lesson Pages. 
 
+To get started vewing, open one of the branches above.
+
+If you'd like to add, 
+
 
 
 <!---
